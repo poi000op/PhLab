@@ -1,0 +1,9 @@
+Option:
+  Backgroud_Color1: 211
+  Backgroud_Color2: 111
+  Backgroud_Color3: 200
+  WIDTH: 900
+  HEIGHT: 720
+Objects:
+ triangl: 12
+
